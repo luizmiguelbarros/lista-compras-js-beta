@@ -1,0 +1,44 @@
+html {
+    background: linear-gradient(177.52deg, #06557a 2.11%, #041933 81.34%);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+body {
+    font-family: monospace;
+}
+
+h2, footer {
+    font-family: monospace;
+}
+
+button {
+    border: none;
+}
+
+.itens-comprados {
+text-decoration: line-through;
+}
+
+.borda-lista {
+    border-bottom: dotted 2px blue;
+}
+
+input:disabled {
+    border: none;
+    background: none;
+    color: black;
+}
+
+input {
+    border: none;
+    background: none;
+    color: black;
+}
+
+a {
+    color: aliceblue;
+    cursor: pointer;
+    transition: 2ms;
+
+}
